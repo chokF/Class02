@@ -18,9 +18,10 @@ class ViewController: UIViewController {
         let a = add(a: 2, b: 5)
         
         if(a > 0){
-            print(">0")
-        }else{
-            print("<=0")
+            print("a 值為：\( a )")
+        }
+        else{
+            print("")
         }
         
     }
