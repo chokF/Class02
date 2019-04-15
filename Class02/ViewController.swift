@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         
     }
     
-    func add(a: Int,b:Int) -> Int {
+    func add(a: Int,b : Int) -> Int {
         return a+b
     }
    
